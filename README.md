@@ -1,2 +1,3 @@
 # reactnative
-react native demo
+react native demo for practice
+
