@@ -1,3 +1,3 @@
-# reactnative
-react native demo for practice
+# buytimePhone
+>移动端buytime
 
